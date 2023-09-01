@@ -16,7 +16,7 @@ public class Assignment1_checkboxes_exercise {
 //		 System.out.println(driver.findElement(By.cssSelector("input[id='checkBoxOption1']")).isSelected());
 //		 
 //		  System.out.println(driver.findElements(By.cssSelector("input[type='checkbox']")).size());
-
+System.out.println("I am added due to GIT");
 
 	}
 
